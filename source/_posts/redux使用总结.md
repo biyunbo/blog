@@ -7,13 +7,17 @@ tags:
       - react
 ---
 
-## 在react项目中使用redux总结。
+# 在react项目中使用redux总结。
 
 这是在写完一个自己的小项目后所写的。
 
-项目地址https://github.com/biyunbo/react-cnode 。
+###项目地址https://github.com/biyunbo/react-cnode 。
 
-项目展示网址[cnode中文社区](http://cnode.byb224.top)
+### 项目展示网址[cnode中文社区](http://cnode.byb224.top)
+
+### 手机端扫描二维码
+
+![er](https://github.com/biyunbo/react-cnode/raw/master/show/cnode.png)
 
 下面开始进入正题。
 
